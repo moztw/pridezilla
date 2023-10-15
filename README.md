@@ -2,14 +2,14 @@
 
 ###### tags: `pridezilla`
 
-- Telegram: 
+- Telegram
     - https://t.me/+V8h0hu4de38xMDJl
     - moztw.org/tg (Pridezilla 頻道)
 - Github repo: https://github.com/moztw/pridezilla
 
 ## 主視覺
 
-![](https://hackmd.io/_uploads/Hy0YMad-6.png =300x)
+![](https://raw.githubusercontent.com/moztw/pridezilla/main/Pridezilla_gradient_tw_dev.png)
 
 - AI 原始檔 (PDF)： https://github.com/moztw/pridezilla/blob/main/Pridezilla_gradient_tw_dev.ai.pdf
 - 圓球版本：https://github.com/moztw/pridezilla/blob/main/Pridezilla_gradient_tw_dev.ai.pdf
@@ -22,17 +22,16 @@
 
 ## todo
 
-### 各國版本的設計
+### 加入各國版本
 
 - [ ] 日本
 - [ ] 韓國
 - [ ] 美國
-- 其他
-- 
+- [ ] ... 
 
 ### 格式轉換
 
 - [ ] 放上 Canva
 - [ ] 放上 Penpot
-- [ ] 
+- [ ] ...
 
