@@ -13,7 +13,7 @@
 
 ## 主視覺
 
-![](https://raw.githubusercontent.com/moztw/pridezilla/main/Pridezilla_gradient_tw_dev.png)
+![](https://raw.githubusercontent.com/moztw/pridezilla/main/Pridezilla_gradient_tw.png)
 
 - AI 原始檔 (PDF)： https://github.com/moztw/pridezilla/blob/main/Pridezilla_gradient_tw_dev.ai.pdf
 - 圓球版本：https://github.com/moztw/pridezilla/blob/main/Pridezilla_gradient_tw_dev.ai.pdf
@@ -28,9 +28,9 @@
 
 ### 加入各國版本
 
-- [ ] 日本
-- [x] 韓國
-- [ ] 美國
+- [ ] Japan
+- [x] Korea
+- [ ] US
 - [ ] ... 
 
 ### 格式轉換
