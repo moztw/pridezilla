@@ -28,7 +28,7 @@
 
 ### 加入各國版本
 
-- [ ] Japan
+- [x] Japan
 - [x] Korea
 - [ ] US
 - [ ] ... 
