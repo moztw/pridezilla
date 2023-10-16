@@ -2,10 +2,14 @@
 
 ###### tags: `pridezilla`
 
-- Telegram
-    - https://t.me/+V8h0hu4de38xMDJl
-    - moztw.org/tg (Pridezilla 頻道)
-- Github repo: https://github.com/moztw/pridezilla
+> The original "Pridezilla" design were created by Mozilla staff. 
+> The remake vector file and follow up applications are created by Irvin released under CC0 license.
+> Please paid attention to [Mozilla Trademark Guidelines](https://www.mozilla.org/en-US/foundation/trademarks/policy/).
+
+## 聯絡我們
+
+- Telegram: moztw.org/tg (Pridezilla 頻道)
+- Git repo: https://github.com/moztw/pridezilla
 
 ## 主視覺
 
@@ -25,7 +29,7 @@
 ### 加入各國版本
 
 - [ ] 日本
-- [ ] 韓國
+- [x] 韓國
 - [ ] 美國
 - [ ] ... 
 
